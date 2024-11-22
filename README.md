@@ -1,14 +1,4 @@
-# Interactive-3D-Globe-Visualization
-An interactive 3D globe visualization built using HTML, CSS, and JavaScript.
+# Responsive Image Carousel ( Animation )
 
-# 3D Globe Visualization
+A Pen created on CodePen.io. Original URL: [https://codepen.io/red_dragon-2348/pen/YzBROGa](https://codepen.io/red_dragon-2348/pen/YzBROGa).
 
-This repository contains an interactive 3D globe visualization built using HTML, CSS, and JavaScript.  
-Originally developed and shared on [CodePen](https://codepen.io/red_dragon-2348/pen/YzBROGa).
-
-## Features
-- Dynamic 3D globe rendering
-- Interactive user interface
-
-## Demo
-Check out the original project on [CodePen](https://codepen.io/red_dragon-2348/pen/YzBROGa).
